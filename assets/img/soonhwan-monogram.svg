@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-labelledby="title desc">
+  <title id="title">Soonhwan Kwon monogram</title>
+  <desc id="desc">A simple academic monogram displaying the initials SK.</desc>
+  <rect width="400" height="400" rx="28" fill="#f4f6f8"/>
+  <rect x="18" y="18" width="364" height="364" rx="20" fill="none" stroke="#24557a" stroke-width="4"/>
+  <text x="200" y="230" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="150" fill="#18202a">SK</text>
+  <line x1="105" y1="275" x2="295" y2="275" stroke="#24557a" stroke-width="5"/>
+</svg>
