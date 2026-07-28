@@ -1,0 +1,67 @@
+---
+title: ""
+page-layout: full
+format:
+  html:
+    toc: false
+---
+
+::: {.hero}
+::: {.grid}
+::: {.g-col-12 .g-col-md-8}
+# Soonhwan Kwon
+
+## PhD Candidate in Political Science
+
+**Indiana University Bloomington**
+
+I study how housing policies reshape citizens' economic expectations, political interests, and attitudes toward redistribution. My research brings together **policy feedback**, **housing political economy**, **inequality**, and **political behavior**, with comparative work on South Korea, the Netherlands, and the United States.
+
+[Research](research.qmd){.btn .btn-primary .btn-lg} [CV](cv.qmd){.btn .btn-outline-secondary .btn-lg} [Email](mailto:sookwon@iu.edu){.btn .btn-outline-secondary .btn-lg}
+:::
+
+::: {.g-col-12 .g-col-md-4 .hero-image-wrap}
+![](assets/img/soonhwan-monogram.svg){fig-alt="Soonhwan Kwon monogram" .hero-image}
+:::
+:::
+:::
+
+## Current research
+
+::: {.research-grid}
+::: {.research-card}
+### Housing-market deregulation
+
+How does deregulation change renters' perceived prospects of upward mobility and create politically consequential differences among nonowners?
+
+[Seoul chapter →](research.qmd#seoul)
+:::
+
+::: {.research-card}
+### Mortgage-policy eligibility
+
+How do policy eligibility boundaries shape the political consequences of entering homeownership?
+
+[Netherlands chapter →](research.qmd#netherlands)
+:::
+
+::: {.research-card}
+### Tenant protection
+
+Can stronger tenant protections change how renters understand mobility, fairness, and the role of the state?
+
+[New York chapter →](research.qmd#new-york)
+:::
+:::
+
+## Research agenda
+
+My dissertation explains why renters do not necessarily form a unified political constituency. Rather than treating tenure status as a fixed source of political interests, I examine how policy design changes the perceived attainability and returns of homeownership, marks eligibility boundaries, and creates different expectations among renters.
+
+## News
+
+- **APSA 2026:** Presenting research on housing-market deregulation and renters' prospects of upward mobility.
+- **Dissertation:** Developing a three-country project on policy feedback and renter politics.
+- **Job market:** Preparing the Seoul chapter as the primary job-market paper.
+
+<!-- Replace or update these items as needed. -->

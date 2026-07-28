@@ -1,0 +1,34 @@
+---
+title: "Teaching"
+---
+
+## Teaching interests
+
+- Public policy
+- Political behavior
+- Comparative political economy
+- Housing and urban politics
+- Inequality and redistribution
+- Quantitative research methods
+
+## Teaching philosophy
+
+My teaching helps students connect abstract political-science theories to institutions and policies that structure everyday life. Housing is especially useful for this purpose: it links markets, welfare states, local government, inequality, and political behavior in a domain students already recognize as personally and socially consequential.
+
+I aim to make empirical reasoning transparent by guiding students from a substantive question to measurement, research design, analysis, and interpretation. Students should leave a course able not only to evaluate political claims, but also to explain what kind of evidence would support or challenge them.
+
+## Courses
+
+### Policy Making Around the Globe
+
+Comparative introduction to how institutions, political coalitions, and policy feedback shape public policy across countries.
+
+### Housing, Inequality, and Politics
+
+Proposed course examining housing as shelter, asset, welfare provision, and a source of political conflict.
+
+### Quantitative Political Analysis
+
+Proposed methods course emphasizing research design, data visualization, regression, and responsible causal inference.
+
+<!-- Replace proposed courses with courses taught, assistantships, guest lectures, and evaluations. -->

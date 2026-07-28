@@ -1,0 +1,135 @@
+/* ---------- Site-wide typography and spacing ---------- */
+:root {
+  --sk-ink: #18202a;
+  --sk-muted: #5c6875;
+  --sk-border: #e3e7eb;
+  --sk-soft: #f6f8fa;
+  --sk-accent: #24557a;
+  --sk-accent-dark: #173a54;
+}
+
+body {
+  color: var(--sk-ink);
+  line-height: 1.7;
+}
+
+.navbar-brand {
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+.navbar {
+  border-bottom: 1px solid var(--sk-border);
+}
+
+h1, h2, h3 {
+  letter-spacing: -0.025em;
+}
+
+h2 {
+  margin-top: 2.2rem;
+}
+
+/* ---------- Homepage hero ---------- */
+.hero {
+  padding: 4.5rem 0 3.5rem;
+  border-bottom: 1px solid var(--sk-border);
+  margin-bottom: 2.7rem;
+}
+
+.hero h1 {
+  font-size: clamp(2.7rem, 7vw, 5rem);
+  line-height: 1;
+  margin-bottom: 1rem;
+}
+
+.hero h2 {
+  color: var(--sk-accent);
+  font-size: clamp(1.25rem, 3vw, 1.75rem);
+  margin-top: 0;
+  margin-bottom: 0.45rem;
+}
+
+.hero p {
+  font-size: 1.08rem;
+  max-width: 48rem;
+}
+
+.hero .btn {
+  margin: 0.35rem 0.35rem 0.35rem 0;
+}
+
+.hero-image-wrap {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.hero-image {
+  width: min(100%, 260px);
+  height: auto;
+}
+
+/* ---------- Research cards ---------- */
+.research-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1.15rem;
+  margin: 1.4rem 0 2.5rem;
+}
+
+.research-card {
+  padding: 1.35rem 1.4rem;
+  border: 1px solid var(--sk-border);
+  border-radius: 0.55rem;
+  background: var(--sk-soft);
+}
+
+.research-card h3 {
+  margin-top: 0;
+  font-size: 1.12rem;
+}
+
+.research-card p {
+  color: var(--sk-muted);
+}
+
+/* ---------- Links and buttons ---------- */
+a {
+  text-underline-offset: 0.18em;
+}
+
+.btn-primary {
+  background-color: var(--sk-accent);
+  border-color: var(--sk-accent);
+}
+
+.btn-primary:hover {
+  background-color: var(--sk-accent-dark);
+  border-color: var(--sk-accent-dark);
+}
+
+/* ---------- Dark mode ---------- */
+.quarto-dark {
+  --sk-ink: #edf2f6;
+  --sk-muted: #b5c0ca;
+  --sk-border: #3a4652;
+  --sk-soft: #232d36;
+  --sk-accent: #8fc1e3;
+  --sk-accent-dark: #a9d2ec;
+}
+
+/* ---------- Mobile ---------- */
+@media (max-width: 767px) {
+  .hero {
+    padding-top: 2.3rem;
+  }
+
+  .hero-image-wrap {
+    margin-top: 2rem;
+  }
+
+  .research-grid {
+    grid-template-columns: 1fr;
+  }
+}

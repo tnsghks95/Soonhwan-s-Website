@@ -1,0 +1,62 @@
+---
+title: "Curriculum Vitae"
+format:
+  html:
+    toc: false
+---
+
+## Soonhwan Kwon
+
+**PhD Candidate, Department of Political Science**  
+Indiana University Bloomington  
+Email: [sookwon@iu.edu](mailto:sookwon@iu.edu)
+
+<!--
+After placing your current PDF at assets/files/Soonhwan_Kwon_CV.pdf,
+uncomment the line below:
+
+[Download CV as PDF](assets/files/Soonhwan_Kwon_CV.pdf){.btn .btn-primary}
+-->
+
+## Education
+
+**PhD in Political Science**, Indiana University Bloomington  
+Expected 2027
+
+<!-- Add prior degrees, institutions, fields, and dates. -->
+
+## Research interests
+
+Housing politics; policy feedback; comparative political economy; inequality and redistribution; political behavior; public policy
+
+## Dissertation
+
+**Policy Feedback and the Political Divergence of Renters**
+
+Committee and full dissertation description can be added here.
+
+## Working papers
+
+1. “The Birth of Aspirational Renters? Housing-Market Deregulation and Prospects of Upward Mobility.”
+2. “Crossing the Ownership Boundary: Mortgage Guarantees and Redistributive Attitudes.”
+3. “Tenant Protection and Beliefs about Economic Opportunity.”
+4. “Inequality Perceptions, Mortgage Debt, and the Transition to Homeownership.”
+
+## Conference presentations
+
+- American Political Science Association Annual Meeting, 2026.
+- International Political Science Association workshop, 2026.
+
+<!-- Add panels, paper titles, locations, discussant roles, and earlier conferences. -->
+
+## Teaching
+
+Add courses taught, teaching-assistant experience, guest lectures, and training here.
+
+## Methods
+
+Causal inference; difference-in-differences; panel-data analysis; survey analysis; R
+
+## Professional service
+
+Add reviewing, discussant roles, departmental service, and professional memberships here.

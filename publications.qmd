@@ -1,0 +1,46 @@
+---
+title: "Publications & Working Papers"
+---
+
+## Working papers
+
+### The Birth of Aspirational Renters? Housing-Market Deregulation and Prospects of Upward Mobility
+
+**Soonhwan Kwon**
+
+Examines how housing-market deregulation changes renters' perceived prospects of upward mobility and differentiates renters according to their relative proximity to homeownership.
+
+[Abstract and project description](research.qmd#seoul)
+
+## Works in progress
+
+### Crossing the Ownership Boundary: Mortgage Guarantees and Redistributive Attitudes
+
+**Soonhwan Kwon**
+
+Studies whether policy-supported entry into homeownership has political consequences distinct from homeownership itself.
+
+### Tenant Protection and Beliefs about Economic Opportunity
+
+**Soonhwan Kwon**
+
+Examines whether tenant protection changes beliefs about mobility, fairness, and the role of government.
+
+### Inequality Perceptions, Mortgage Debt, and the Transition to Homeownership
+
+**Soonhwan Kwon**
+
+Investigates whether perceived inequality predicts debt-financed transitions from renting to owning.
+
+## Publications
+
+Peer-reviewed publications will be listed here.
+
+<!-- Suggested format:
+
+### Article title
+
+**Soonhwan Kwon** and Coauthor. *Journal Name*, year.
+
+[Paper](URL) · [Appendix](URL) · [Replication](URL)
+-->

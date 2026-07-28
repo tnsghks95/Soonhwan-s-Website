@@ -1,0 +1,46 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Soonhwan Kwon"
+  description: "Political scientist studying housing policy, policy feedback, inequality, and political behavior."
+  navbar:
+    background: light
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Research
+        href: research.qmd
+      - text: Publications
+        href: publications.qmd
+      - text: Teaching
+        href: teaching.qmd
+      - text: CV
+        href: cv.qmd
+      - text: Media
+        href: media.qmd
+    right:
+      - icon: envelope
+        href: mailto:sookwon@iu.edu
+        aria-label: Email
+  page-footer:
+    left: "© 2026 Soonhwan Kwon"
+    right: "Built with [Quarto](https://quarto.org/) and hosted on GitHub Pages."
+  search: true
+  back-to-top-navigation: true
+  open-graph: true
+  twitter-card: true
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    css: styles.css
+    toc: true
+    smooth-scroll: true
+    link-external-newwindow: true
+
+execute:
+  freeze: auto

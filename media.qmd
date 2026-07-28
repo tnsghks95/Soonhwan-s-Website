@@ -1,0 +1,27 @@
+---
+title: "Public Engagement & Media"
+---
+
+## Public scholarship
+
+I am interested in making social-science research accessible beyond academic audiences, particularly on housing inequality, democratic attitudes, religion and politics, and the use of empirical evidence in public debate.
+
+## 리포미디어
+
+리포미디어 is a Korean-language public-engagement project that discusses political and social issues through social-scientific research and data analysis.
+
+<!-- Add the channel URL after publication:
+
+[Visit 리포미디어](https://www.youtube.com/...){.btn .btn-primary}
+-->
+
+## Selected topics
+
+- Housing inequality and homeownership
+- Religion, ideology, and democratic attitudes
+- How political labels such as “far right” are defined and used
+- Evaluating public claims with survey data
+
+## Media inquiries
+
+For interviews, talks, or research-related inquiries, contact [sookwon@iu.edu](mailto:sookwon@iu.edu).
