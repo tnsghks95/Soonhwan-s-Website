@@ -2,45 +2,52 @@
 title: "Publications & Working Papers"
 ---
 
-## Working papers
+## Working paper
 
-### The Birth of Aspirational Renters? Housing-Market Deregulation and Prospects of Upward Mobility
+### *Aspirational Renters? Housing-Market Deregulation and Prospects of Upward Mobility*
 
 **Soonhwan Kwon**
 
-Examines how housing-market deregulation changes renters' perceived prospects of upward mobility and differentiates renters according to their relative proximity to homeownership.
+Job-market paper. Presented at the 2026 American Political Science Association Annual Meeting.
 
-[Abstract and project description](research.qmd#seoul)
+This paper examines how housing-market deregulation changes renters' prospects of upward mobility and why those effects differ according to renters' economic capacity and proximity to homeownership.
+
+[Abstract and project description](research.qmd#toward-homeownership)
 
 ## Works in progress
 
-### Crossing the Ownership Boundary: Mortgage Guarantees and Redistributive Attitudes
+### *State-Underwritten Embourgeoisement? Homeownership Support Policy and Redistributive Attitudes: Evidence from the Netherlands*
 
 **Soonhwan Kwon**
 
-Studies whether policy-supported entry into homeownership has political consequences distinct from homeownership itself.
+Examines how public protection against mortgage risk shapes financial expectations and support for redistribution after renters become homeowners.
 
-### Tenant Protection and Beliefs about Economic Opportunity
+[Project description](research.qmd#into-homeownership)
 
-**Soonhwan Kwon**
-
-Examines whether tenant protection changes beliefs about mobility, fairness, and the role of government.
-
-### Inequality Perceptions, Mortgage Debt, and the Transition to Homeownership
+### *Renter Protection and Beliefs about Opportunity, Meritocracy, and Economic Fairness in New York City*
 
 **Soonhwan Kwon**
 
-Investigates whether perceived inequality predicts debt-financed transitions from renting to owning.
+Examines how different forms of renter support generate feedback on beliefs about unequal opportunity, meritocracy, and economic fairness.
 
-## Publications
+[Project description](research.qmd#outside-homeownership)
 
-Peer-reviewed publications will be listed here.
+### *Falling Behind, Buying In: Perceived Inequality and Debt-Financed Homeownership*
 
-<!-- Suggested format:
+**Soonhwan Kwon**
 
-### Article title
+Investigates whether perceived inequality predicts debt-financed transitions from renting to owning in South Korea and the United Kingdom.
 
-**Soonhwan Kwon** and Coauthor. *Journal Name*, year.
+## Peer-reviewed publications
 
-[Paper](URL) · [Appendix](URL) · [Replication](URL)
--->
+### “An Impact of Party Identification on Citizens' Perception toward the Safety and Expansion of Nuclear Energy in South Korea”
+
+**Soonhwan Kwon** and Taedong Lee. 2022. *Journal of Korean Politics* 31(3): 215–246. In Korean.
+
+### “Comparative Analysis of Sustainable Development Goals (SDGs) Governance: A Proposal for Korean SDGs Enhancement”
+
+Jung Hee Sung, Jee Eun Choi, Haedong Kim, **Soonhwan Kwon**, Heeseob Lee, and Taedong Lee. 2022. *Social Science Review* 53(2): 1–21. In Korean.
+
+### “Study on the Relationship Between Right-Wing Authoritarianism and Political Participation: Focusing on the Effects by Party Identification”
+
+**Soonhwan Kwon** and Sanghyun Park. 2021. *Journal of Social Science* 32(4): 239–262. In Korean.
