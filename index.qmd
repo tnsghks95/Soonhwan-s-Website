@@ -15,7 +15,7 @@ format:
 
 **Indiana University Bloomington**
 
-I study how housing policies reshape citizens' economic expectations, political interests, and attitudes toward redistribution. My research brings together **policy feedback**, **housing political economy**, **inequality**, and **political behavior**, with comparative work on South Korea, the Netherlands, and the United States.
+I study the political economy of **housing**, **welfare regimes**, and **wealth inequality**, with particular attention to how housing policies and institutions shape redistributive politics and political behavior. I use longitudinal survey data, quasi-experimental designs, and survey experiments to study these questions comparatively across advanced democracies.
 
 [Research](research.qmd){.btn .btn-primary .btn-lg} [CV](cv.qmd){.btn .btn-outline-secondary .btn-lg} [Email](mailto:sookwon@iu.edu){.btn .btn-outline-secondary .btn-lg}
 :::
@@ -30,38 +30,38 @@ I study how housing policies reshape citizens' economic expectations, political 
 
 ::: {.research-grid}
 ::: {.research-card}
-### Housing-market deregulation
+### Toward Homeownership
 
-How does deregulation change renters' perceived prospects of upward mobility and create politically consequential differences among nonowners?
+My job-market paper examines whether the 2023 deregulation of mortgage finance and housing transactions in Seoul changed renters' prospects of upward mobility before they became homeowners.
 
-[Seoul chapter →](research.qmd#seoul)
+[Seoul study →](research.qmd#toward-homeownership)
 :::
 
 ::: {.research-card}
-### Mortgage-policy eligibility
+### Into Homeownership
 
-How do policy eligibility boundaries shape the political consequences of entering homeownership?
+My Netherlands study asks how public protection against mortgage risk changes financial expectations and support for redistribution after renters become homeowners.
 
-[Netherlands chapter →](research.qmd#netherlands)
+[Netherlands study →](research.qmd#into-homeownership)
 :::
 
 ::: {.research-card}
-### Tenant protection
+### Outside Homeownership
 
-Can stronger tenant protections change how renters understand mobility, fairness, and the role of the state?
+My New York City study examines how different forms of renter protection shape beliefs about unequal opportunity, meritocracy, and the fairness of the economic system.
 
-[New York chapter →](research.qmd#new-york)
+[New York study →](research.qmd#outside-homeownership)
 :::
 :::
 
 ## Research agenda
 
-My dissertation explains why renters do not necessarily form a unified political constituency. Rather than treating tenure status as a fixed source of political interests, I examine how policy design changes the perceived attainability and returns of homeownership, marks eligibility boundaries, and creates different expectations among renters.
+Why do homeownership-centered institutions remain politically durable even as homeownership becomes harder to attain? I argue that housing policy helps reproduce or challenge this order by shaping how citizens approach homeownership, experience its risks after purchase, or seek security while remaining renters. These policy-shaped pathways can, in turn, reshape political interests and solidarity around redistribution.
+
+My dissertation traces policy feedback across three points in the housing trajectory: **toward homeownership, into homeownership, and outside homeownership**. Related projects extend this agenda to wealth inequality, debt-financed homeownership, and the conditions under which renter-support policies become either an alternative to ownership or a stepping stone toward it.
 
 ## News
 
-- **APSA 2026:** Presenting research on housing-market deregulation and renters' prospects of upward mobility.
-- **Dissertation:** Developing a three-country project on policy feedback and renter politics.
-- **Job market:** Preparing the Seoul chapter as the primary job-market paper.
-
-<!-- Replace or update these items as needed. -->
+- **APSA 2026:** Presented my job-market paper, *Aspirational Renters? Housing-Market Deregulation and Prospects of Upward Mobility*, at the American Political Science Association Annual Meeting in Boston.
+- **2026–27 job market:** I am on the academic job market in comparative political economy and public policy.
+- **Dissertation:** Developing a three-study project on housing policy, policy feedback, and the political foundations of homeownership-centered systems.
