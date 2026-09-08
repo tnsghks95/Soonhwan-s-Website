@@ -11,52 +11,106 @@ format:
 Indiana University Bloomington  
 Email: [sookwon@iu.edu](mailto:sookwon@iu.edu)
 
-<!--
-After placing your current PDF at assets/files/Soonhwan_Kwon_CV.pdf,
-uncomment the line below:
+## Research interests
 
-[Download CV as PDF](assets/files/Soonhwan_Kwon_CV.pdf){.btn .btn-primary}
--->
+Comparative Politics; Comparative Political Economy; Public Policy; Public Opinion; Policy Feedback; Housing Politics; Political Behavior; Wealth Inequality; Korean Politics
+
+## Teaching interests
+
+Public Opinion; Public Policy; Comparative Politics; Comparative Political Economy; Political Behavior; Political Methodology; Housing Politics; Korean Politics
 
 ## Education
 
 **PhD in Political Science**, Indiana University Bloomington  
-Expected 2027
+Expected May 2027
 
-<!-- Add prior degrees, institutions, fields, and dates. -->
+Dissertation research examines how housing policies shape pathways to economic security, upward mobility, and political attitudes across advanced democracies.
 
-## Research interests
+**Dissertation Committee:** Jason Yuyan Wu (Chair), Nicolas Bichay, Sarah Bauerle Danzman, Arthur S. Alderson (Sociology), and John S. Kuk (Michigan State University; External Member)
 
-Housing politics; policy feedback; comparative political economy; inequality and redistribution; political behavior; public policy
+**M.A. in Political Science**, Yonsei University, 2022
 
-## Dissertation
+**B.A. in International Studies**, Kyung Hee University, 2020, *magna cum laude*
 
-**Policy Feedback and the Political Divergence of Renters**
+## Dissertation research
 
-Committee and full dissertation description can be added here.
+**Job Market Paper:** *Aspirational Renters? Housing-Market Deregulation and Prospects of Upward Mobility*  
+Working paper. Presented at the 2026 American Political Science Association Annual Meeting.
 
-## Working papers
+*State-Underwritten Embourgeoisement? Homeownership Support Policy and Redistributive Attitudes: Evidence from the Netherlands*  
+Work in progress.
 
-1. “The Birth of Aspirational Renters? Housing-Market Deregulation and Prospects of Upward Mobility.”
-2. “Crossing the Ownership Boundary: Mortgage Guarantees and Redistributive Attitudes.”
-3. “Tenant Protection and Beliefs about Economic Opportunity.”
-4. “Inequality Perceptions, Mortgage Debt, and the Transition to Homeownership.”
+*Renter Protection and Beliefs about Opportunity, Meritocracy, and Economic Fairness in New York City*  
+Work in progress.
 
-## Conference presentations
+## Other research in progress
 
-- American Political Science Association Annual Meeting, 2026.
-- International Political Science Association workshop, 2026.
+*Falling Behind, Buying In: Perceived Inequality and Debt-Financed Homeownership*  
+Comparative project using longitudinal panel data from South Korea and the United Kingdom.
 
-<!-- Add panels, paper titles, locations, discussant roles, and earlier conferences. -->
+## Peer-reviewed publications
 
-## Teaching
+**Soonhwan Kwon** and Taedong Lee. 2022. “An Impact of Party Identification on Citizens' Perception toward the Safety and Expansion of Nuclear Energy in South Korea.” *Journal of Korean Politics* 31(3): 215–246. In Korean.
 
-Add courses taught, teaching-assistant experience, guest lectures, and training here.
+Jung Hee Sung, Jee Eun Choi, Haedong Kim, **Soonhwan Kwon**, Heeseob Lee, and Taedong Lee. 2022. “Comparative Analysis of Sustainable Development Goals (SDGs) Governance: A Proposal for Korean SDGs Enhancement.” *Social Science Review* 53(2): 1–21. In Korean.
 
-## Methods
+**Soonhwan Kwon** and Sanghyun Park. 2021. “Study on the Relationship Between Right-Wing Authoritarianism and Political Participation: Focusing on the Effects by Party Identification.” *Journal of Social Science* 32(4): 239–262. In Korean.
 
-Causal inference; difference-in-differences; panel-data analysis; survey analysis; R
+## Invited presentation
+
+“Housing Policy and Prospects of Upward Mobility: Evidence from South Korea.” Department of Political Science Seminar, Indiana University Bloomington, April 10, 2026.
+
+## Conference presentations and participation
+
+- “Aspirational Renters? Housing-Market Deregulation and Prospects of Upward Mobility.” American Political Science Association Annual Meeting, Boston, MA, 2026.
+- American Political Science Association Annual Meeting, Vancouver, Canada, 2025.
+- Midwest Political Science Association Annual Conference, 2024, 2025.
+- Korean Political Science Association Summer Conference, 2026.
+- International Political Science Association, 2025.
+- International Political Science Association Work-in-Progress Sessions, 2026. Presenter and discussant.
+- APSA Virtual Research Meeting, “Aligning Computational Tools for the Political Science Research Lifecycle,” 2026. Research Group Workshop Participant.
+- Korean Association of Party Studies Conference, 2021.
+
+## Teaching experience
+
+**Indiana University Bloomington**
+
+- *Political Analysis (Research Design and Quantitative Methods)*, Associate Instructor, Spring 2026; Spring 2027 (scheduled)
+- *Sociology of Childhood*, Associate Instructor, Fall 2025
+- *Introduction to Law*, Associate Instructor, Fall 2023 and Spring 2025
+- *Introduction to Political Theory*, Discussion Section Instructor (Associate Instructor), Fall 2024
+- *Introduction to Political Theory*, Associate Instructor, Spring 2024
+
+## Fellowships, scholarships, and awards
+
+**Indiana University Bloomington**
+
+- Travel Grant, American Political Science Association Annual Meeting, Vancouver, Canada, 2025
+- Wendell Willkie Political Science Fellowship, 2025
+- Katharine Greenough Fellowship, 2024, 2025, 2026
+- Benjamin Most Memorial Fellowship, Summer 2023
+- Indiana University Graduate Fellowship, 2022–2023
+
+**Yonsei University**
+
+- Award of Distinction for M.A. Thesis, 2022
+- BK21+ Scholarship, 2020–2021
+
+## Research experience
+
+**Environment–Energy–Urban Politics Lab**, Yonsei University  
+Research Assistant, Aug. 2020–Jun. 2021
+
+Contributed to externally funded research projects on sustainable development, climate adaptation, environmental policy, and urban governance under the direction of Professor Taedong Lee.
 
 ## Professional service
 
-Add reviewing, discussant roles, departmental service, and professional memberships here.
+- Ad Hoc Reviewer, *The Journal of Politics*
+- Discussant, American Political Science Association Annual Meeting, Vancouver, Canada, 2025 (Panel: The Socio-Political Construction of the Economy)
+- Informal Discussant, American Political Science Association Annual Meeting, Boston, MA, 2026 (Panel: Housing Politics)
+
+## Methods, software, and languages
+
+- **Methods:** Difference-in-differences, quasi-experimental research designs, longitudinal and panel-data analysis, survey research
+- **Software:** R, Stata, LaTeX
+- **Languages:** Korean (native), English (professional proficiency)
