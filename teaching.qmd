@@ -4,31 +4,50 @@ title: "Teaching"
 
 ## Teaching interests
 
-- Public policy
-- Political behavior
-- Comparative political economy
-- Housing and urban politics
-- Inequality and redistribution
-- Quantitative research methods
+- Public Opinion
+- Public Policy
+- Comparative Politics
+- Comparative Political Economy
+- Political Behavior
+- Political Methodology
+- Housing Politics
+- Korean Politics
 
 ## Teaching philosophy
 
-My teaching helps students connect abstract political-science theories to institutions and policies that structure everyday life. Housing is especially useful for this purpose: it links markets, welfare states, local government, inequality, and political behavior in a domain students already recognize as personally and socially consequential.
+My teaching begins with a simple question: how can students see why a political question matters to them? Political science courses often ask students to engage unfamiliar theories, institutions, and cases. I design classes that first connect abstract political questions to problems students recognize in their own lives and the world around them, and then ask students to use theory and evidence to explain those problems.
 
-I aim to make empirical reasoning transparent by guiding students from a substantive question to measurement, research design, analysis, and interpretation. Students should leave a course able not only to evaluate political claims, but also to explain what kind of evidence would support or challenge them.
+I developed this approach while leading discussion sections for Introduction to Political Theory. Rather than asking students to react only to abstract concepts, I began with concrete political conflicts and contemporary cases. For example, when discussing Thomas Aquinas's account of just war, I asked students to consider how its principles might apply to the war in Ukraine. When discussing equality, I introduced a contemporary campus controversy in South Korea involving women's education and a proposed transition to coeducation. These cases gave students a clearer reason to participate and helped them connect foundational political ideas to real-world problems.
 
-## Courses
+## Teaching methods and evidence
 
-### Policy Making Around the Globe
+I use the same principle in methods teaching. In POLS-Y205 Political Analysis, I gave short “Evaluating Claims” lectures in which students used empirical evidence to assess claims they might encounter in media or everyday life. In one session, I began with a question about whether parents influence their children's political leanings and then used the study behind that question to show how a research design supports or limits a claim.
 
-Comparative introduction to how institutions, political coalitions, and policy feedback shape public policy across countries.
+Elisabeth Brannon, the course instructor, described these sessions as “clear and thorough, as well as engaging,” adding that “Students visibly perked up during these sessions and were excited by the material he covered.” She also noted that I “patiently and clearly walked students through material that they struggled with” during lab exercises.  
+*Elisabeth Brannon, POLS-Y205 Teaching Observation, 2026*
 
-### Housing, Inequality, and Politics
+The official Y205 course evaluations asked students to evaluate the Associate Instructors collectively rather than individually. Selected comments on the instructional team included:
 
-Proposed course examining housing as shelter, asset, welfare provision, and a source of political conflict.
+- “The AIs would evaluate claims with the class, which I enjoyed.”
+- “The AIs were fair graders and kind, and their lectures were a good way to break up regular class instruction.”
+- “The AIs for the course were very available and helpful.”
 
-### Quantitative Political Analysis
+A second principle of my teaching is that students should be able to explain complex ideas in their own words. I use short handwritten reflections and oral explanations as low-stakes checks for comprehension. Familiarity with terminology is not the same as understanding; students should be able to explain what they know clearly and revise their explanations after discussion.
 
-Proposed methods course emphasizing research design, data visualization, regression, and responsible causal inference.
+## Community-engaged learning
 
-<!-- Replace proposed courses with courses taught, assistantships, guest lectures, and evaluations. -->
+I also want students to apply political science to real policy problems outside the classroom. In a Public Policy or Urban Politics course, I would design a community engagement assignment in which students select a policy issue, review relevant research, and prepare questions before meeting with a local civic organization working on that issue. Afterward, students would write a report connecting what they learned from the organization to theories discussed in class and evaluating the issue using relevant evidence.
+
+This approach builds on a housing politics course I took in the Geography department, where students investigated housing vulnerability and inequality in Indianapolis and engaged with local advocates, including the Indiana Women's Prison Alliance, around community-centered redevelopment and the future of the former Indiana Women's Prison site. That experience showed me how field-based work can make the institutional and distributional consequences of policy more concrete.
+
+## Teaching experience
+
+**Indiana University Bloomington**
+
+- *Political Analysis (Research Design and Quantitative Methods)*, Associate Instructor, Spring 2026; Spring 2027 (scheduled)
+- *Sociology of Childhood*, Associate Instructor, Fall 2025
+- *Introduction to Law*, Associate Instructor, Fall 2023 and Spring 2025
+- *Introduction to Political Theory*, Discussion Section Instructor (Associate Instructor), Fall 2024
+- *Introduction to Political Theory*, Associate Instructor, Spring 2024
+
+Across courses, my goal is consistent: help students understand why political questions matter, explain what they know in their own words, and use political science to analyze real-world problems.
