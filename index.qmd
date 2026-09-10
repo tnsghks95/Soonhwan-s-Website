@@ -17,7 +17,7 @@ format:
 
 I study the political economy of **housing**, **welfare regimes**, and **wealth inequality**, with particular attention to how housing policies and institutions shape redistributive politics and political behavior. I use longitudinal survey data, quasi-experimental designs, and survey experiments to study these questions comparatively across advanced democracies.
 
-[Research](research.qmd){.btn .btn-primary .btn-lg} [CV](cv.qmd){.btn .btn-outline-secondary .btn-lg} [Email](mailto:sookwon@iu.edu){.btn .btn-outline-secondary .btn-lg}
+[Research](research.qmd){.btn .btn-primary .btn-lg} [CV](cv.qmd){.btn .btn-outline-secondary .btn-lg} [Job Market Paper](https://drive.google.com/file/d/1UyaBIgAyoT9nLptkaXkZr16JtqGHL4Bq/view?usp=drivesdk){.btn .btn-outline-secondary .btn-lg} [Email](mailto:sookwon@iu.edu){.btn .btn-outline-secondary .btn-lg}
 :::
 
 ::: {.g-col-12 .g-col-md-4 .hero-image-wrap}
