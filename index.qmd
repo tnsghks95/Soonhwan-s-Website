@@ -21,7 +21,7 @@ I study the political economy of **housing**, **welfare regimes**, and **wealth 
 :::
 
 ::: {.g-col-12 .g-col-md-4 .hero-image-wrap}
-![](assets/img/soonhwan-monogram.svg){fig-alt="Soonhwan Kwon monogram" .hero-image}
+![](assets/img/KakaoTalk_20260910_112013765.png){fig-alt="Portrait of Soonhwan Kwon" .hero-image}
 :::
 :::
 :::
