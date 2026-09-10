@@ -15,6 +15,8 @@ format:
 
 **Indiana University Bloomington**
 
+I expect to defend my dissertation in May 2027 and submit the final revisions by August 2027.
+
 I study the political economy of **housing**, **welfare regimes**, and **wealth inequality**, with particular attention to how housing policies and institutions shape redistributive politics and political behavior. I use longitudinal survey data, quasi-experimental designs, and survey experiments to study these questions comparatively across advanced democracies.
 
 [Research](research.qmd){.btn .btn-primary .btn-lg} [CV](cv.qmd){.btn .btn-outline-secondary .btn-lg} [Email](mailto:sookwon@iu.edu){.btn .btn-outline-secondary .btn-lg}
