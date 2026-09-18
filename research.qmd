@@ -27,7 +27,7 @@ I am extending this study with longitudinal data from the Korea Welfare Panel St
 
 ## Into Homeownership {#into-homeownership}
 
-### *State-Underwritten Homeownership? Mortgage Guarantees and Redistributive Attitudes in the Netherlands*
+### *State-Underwritten Homeownership? Mortgage Guarantees and Political Attitudes After Home Purchase in the Netherlands*
 
 **Status:** Dissertation chapter in progress. **Working title.**
 
@@ -53,9 +53,9 @@ Using panel data from the Poverty Tracker New York City Longitudinal Survey of W
 
 ## Other Research in Progress
 
-### *Perceived Inequality and Debt-Financed Homeownership: Evidence from South Korea and the United Kingdom*
+### *Why Renters Buy In: Aspiration, Insecurity, and the Pursuit of Homeownership in South Korea*
 
-Using longitudinal panel data from South Korea and the United Kingdom, this project examines whether perceptions of economic inequality predict renters' subsequent transitions to homeownership, particularly among those with the financial capacity to take on mortgage debt. The project asks whether perceptions of inequality shape economic decisions about ownership and borrowing as well as political preferences.
+This project examines how aspiration and economic insecurity shape renters' pursuit of homeownership in South Korea, with particular attention to differences in financial capacity and housing decisions.
 
 ### *Renter Support as an Alternative or Stepping Stone to Homeownership: Evidence from the Seoul Youth Panel Survey*
 
