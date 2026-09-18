@@ -1,13 +1,13 @@
 ---
 title: "Research"
-description: "Research on housing politics, policy feedback, welfare regimes, wealth inequality, and redistributive politics."
+description: "Research on housing politics, policy feedback, welfare institutions, household wealth, and political behavior."
 ---
 
 ## Dissertation
 
-Housing has become harder to afford across developed countries. Yet institutions that privilege homeowners and marginalize renters remain remarkably resilient. My dissertation asks why homeownership-centered systems remain politically durable even as ownership becomes harder to attain.
+Housing has become harder to afford across developed countries. Yet many housing systems continue to organize policy around homeownership even as ownership becomes harder to attain. My dissertation asks why homeownership-centered systems remain politically durable under these conditions.
 
-I argue that housing policy contributes to reproducing or challenging this political order by structuring how people approach homeownership, experience its risks after purchase, or seek security while remaining renters. These policy-shaped differences can weaken or strengthen political solidarity around redistribution. Using policy feedback theory, I study these mechanisms in Seoul, the Netherlands, and New York City.
+I argue that housing policy shapes the durability of these systems by structuring how people approach homeownership, experience its risks after purchase, or seek security while remaining renters. These policy-shaped differences can influence economic expectations, policy preferences, and political behavior. Using policy feedback theory, I study these mechanisms in Seoul, the Netherlands, and New York City.
 
 Together, the three studies examine policy feedback at three points in the housing trajectory: **toward homeownership, into homeownership, and outside homeownership**.
 
@@ -19,7 +19,7 @@ Together, the three studies examine policy feedback at three points in the housi
 
 When do renters begin to anticipate economic opportunities associated with homeownership before actually becoming homeowners? This paper argues that housing-market deregulation can reshape renters' prospective economic interests before purchase by changing both the perceived attainability of homeownership and its expected economic returns.
 
-Using the January 2023 housing-market deregulation in Seoul and a difference-in-differences design, I compare residents of deregulated and regulated districts. Prospects of upward mobility increased among homeowners and renters with sufficient economic resources, while no comparable increase appeared among renters with few resources. The results suggest that anticipatory regulatory feedback can emerge before citizens directly receive the material benefits associated with ownership and can vary within the renter population.
+Using the January 2023 housing-market deregulation in Seoul and a difference-in-differences design, I compare residents of deregulated and regulated districts. Prospects of upward mobility increased among homeowners and renters with greater purchasing capacity, while no comparable increase appeared among renters with limited purchasing capacity. The results suggest that anticipatory regulatory feedback can emerge before citizens directly receive the material benefits associated with ownership and can vary within the renter population.
 
 I am extending this study with longitudinal data from the Korea Welfare Panel Study to examine whether renters' beliefs in social mobility and meritocracy predict subsequent housing-policy preferences and housing decisions.
 
@@ -27,36 +27,36 @@ I am extending this study with longitudinal data from the Korea Welfare Panel St
 
 ## Into Homeownership {#into-homeownership}
 
-### *State-Underwritten Embourgeoisement? Homeownership Support Policy and Redistributive Attitudes: Evidence from the Netherlands*
+### *Mortgage Guarantees and Political Attitudes After Home Purchase: Evidence from the Netherlands*
 
-**Status:** Dissertation chapter in progress.
+**Status:** Dissertation chapter in progress. **Working title.**
 
-This study asks how public protection against mortgage risk changes political attitudes after renters become homeowners. I study the Dutch *Nationale Hypotheek Garantie* (NHG), which lowers borrowing costs and protects borrowers against some losses when repayment becomes difficult.
+This study asks whether and how public mortgage guarantees shape economic expectations and political preferences after renters become homeowners. I study the Dutch *Nationale Hypotheek Garantie* (NHG), which lowers borrowing costs and provides protection against some losses when repayment becomes difficult.
 
-Using LISS panel survey data, I compare NHG recipients with non-recipients and examine support for redistribution, perceived ladder position, expected financial improvement, and objective income position. Buyers with NHG were more likely to report favorable expectations for their future financial situation and were less likely to support redistribution than otherwise comparable buyers without NHG coverage. These differences emerged over the post-purchase period rather than immediately after purchase.
+Using LISS panel survey data, I compare buyers with and without NHG coverage and examine support for redistribution, perceived ladder position, expected financial improvement, and objective income position. Buyers with NHG were more likely to report favorable expectations for their future financial situation and were less likely to support redistribution than otherwise comparable buyers without NHG coverage. These differences emerged over the post-purchase period rather than immediately after purchase.
 
-The findings suggest that the political effects of homeownership are not determined solely by housing tenure; they may also depend on the risk conditions under which ownership was acquired and the extent to which those risks were mitigated by public policy.
+The findings suggest that the political effects of homeownership are not determined solely by housing tenure; they may also depend on the financial risks associated with purchase and the extent to which those risks are reduced by public policy.
 
 **Keywords:** Policy feedback; mortgage guarantees; homeownership; redistribution; Netherlands
 
 ## Outside Homeownership {#outside-homeownership}
 
-### *Renter Protection and Beliefs about Opportunity, Meritocracy, and Economic Fairness in New York City*
+### *Renting as an Alternative? Housing Support and Economic Security in New York City*
 
-**Status:** Dissertation chapter in progress.
+**Status:** Dissertation chapter in progress. **Working title.**
 
-This study analyzes how the design of pro-renter policies shapes renters' perceptions of economic standing, meritocracy, unequal opportunity, and the fairness of the economic system. I distinguish market-regulating policies, such as rent control, from individualized direct support, such as housing vouchers and rent subsidies, and ask whether different forms of support generate different feedback effects.
+This study asks when renter-support policies can make renting a stable alternative to homeownership and when they may fall short of doing so. I distinguish market-regulating policies, such as rent control, from individualized support, such as housing vouchers and rent subsidies, and examine whether different policy designs shape renters' sense of economic security and their attitudes toward opportunity, meritocracy, and the economic system.
 
-Using panel data from the Poverty Tracker New York City Longitudinal Survey of Wellbeing, I examine how exposure to different kinds of pro-renter policies influences these beliefs. Beyond the dissertation, I plan a survey experiment to test whether such attitudinal changes translate into shared fate among renters, support for redistribution, and housing-policy preferences.
+Using panel data from the Poverty Tracker New York City Longitudinal Survey of Wellbeing, I examine how exposure to different forms of renter support relates to these attitudes over time. The project treats these responses as one way to assess whether policy changes how renters understand economic security outside homeownership. Beyond the dissertation, I plan a survey experiment to examine how different housing-policy designs shape renters' policy preferences and perceptions of shared economic interests.
 
-**Keywords:** Renter protection; policy feedback; meritocracy; economic fairness; housing assistance; New York City
+**Keywords:** Renter support; policy feedback; economic security; housing assistance; homeownership; New York City
 
 ## Related Projects
 
-### *Falling Behind, Buying In: Perceived Inequality and Debt-Financed Homeownership*
+### *Perceived Inequality and Debt-Financed Homeownership: Evidence from South Korea and the United Kingdom*
 
-Using longitudinal panel data from South Korea and the United Kingdom, this project examines whether perceptions of economic inequality predict renters' subsequent transitions to homeownership, particularly among those with the financial capacity to take on mortgage debt. The project asks whether perceived inequality can generate not only demands for redistribution but also economic behavior that reinforces homeownership-centered systems.
+Using longitudinal panel data from South Korea and the United Kingdom, this project examines whether perceptions of economic inequality predict renters' subsequent transitions to homeownership, particularly among those with the financial capacity to take on mortgage debt. The project asks whether perceptions of inequality shape economic decisions about ownership and borrowing as well as political preferences.
 
-### Renter Support: Alternative or Stepping Stone?
+### Renter Support as an Alternative or Stepping Stone to Homeownership
 
 Using the Seoul Youth Panel Survey, this project examines when renter-support policies serve as an alternative to homeownership and when they instead become a stepping stone toward it. I link experiences with housing support to subsequent attitudes toward and plans for homeownership, with particular attention to differences by renters' financial capacity.
