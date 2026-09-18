@@ -40,7 +40,7 @@ My job-market paper examines whether the 2023 deregulation of mortgage finance a
 ::: {.research-card}
 ### Into Homeownership
 
-My Netherlands study asks whether state-underwritten mortgage guarantees shape financial expectations and redistributive preferences after renters become homeowners.
+My Netherlands study asks whether state-underwritten mortgage guarantees shape financial expectations and political attitudes after renters become homeowners.
 
 [Netherlands study →](research.qmd#into-homeownership)
 :::
