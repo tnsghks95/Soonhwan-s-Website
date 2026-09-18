@@ -15,7 +15,7 @@ website:
       - text: Teaching
         href: teaching.qmd
       - text: CV
-        href: cv.qmd
+        href: https://drive.google.com/file/d/14ui1uECOEo4f_ANRpQK-YSA-hCm0Qhso/view?usp=drivesdk
     right:
       - icon: envelope
         href: mailto:sookwon@iu.edu
