@@ -8,6 +8,7 @@ title: "Teaching"
 - Public Policy
 - Comparative Politics
 - Comparative Political Economy
+- East Asian Political Economy
 - Political Behavior
 - Political Methodology
 - Housing Politics
