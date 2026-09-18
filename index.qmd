@@ -15,7 +15,7 @@ format:
 
 **Indiana University Bloomington**
 
-I study the political economy of **housing**, **welfare regimes**, and **wealth inequality**, with particular attention to how housing policies and institutions shape redistributive politics and political behavior. I use longitudinal survey data, quasi-experimental designs, and survey experiments to study these questions comparatively across advanced democracies.
+I study the political economy of **housing**, **welfare institutions**, and **household wealth**, with particular attention to how housing policies and institutions shape economic expectations, policy preferences, and political behavior. I use longitudinal survey data, quasi-experimental designs, and survey experiments to study these questions comparatively across advanced democracies.
 
 [Research](research.qmd){.btn .btn-primary .btn-lg} [CV](cv.qmd){.btn .btn-outline-secondary .btn-lg} [Job Market Paper](https://drive.google.com/file/d/1UyaBIgAyoT9nLptkaXkZr16JtqGHL4Bq/view?usp=drivesdk){.btn .btn-outline-secondary .btn-lg} [Email](mailto:sookwon@iu.edu){.btn .btn-outline-secondary .btn-lg}
 :::
@@ -40,7 +40,7 @@ My job-market paper examines whether the 2023 deregulation of mortgage finance a
 ::: {.research-card}
 ### Into Homeownership
 
-My Netherlands study asks how public protection against mortgage risk changes financial expectations and support for redistribution after renters become homeowners.
+My Netherlands study asks whether mortgage guarantees shape financial expectations and redistributive preferences after renters become homeowners.
 
 [Netherlands study →](research.qmd#into-homeownership)
 :::
@@ -48,7 +48,7 @@ My Netherlands study asks how public protection against mortgage risk changes fi
 ::: {.research-card}
 ### Outside Homeownership
 
-My New York City study examines how different forms of renter protection shape beliefs about unequal opportunity, meritocracy, and the fairness of the economic system.
+My New York City study asks when renter-support policies can make renting a stable alternative to ownership and how different policy designs shape renters' economic expectations and political attitudes.
 
 [New York study →](research.qmd#outside-homeownership)
 :::
@@ -56,12 +56,12 @@ My New York City study examines how different forms of renter protection shape b
 
 ## Research agenda
 
-Why do homeownership-centered institutions remain politically durable even as homeownership becomes harder to attain? I argue that housing policy helps reproduce or challenge this order by shaping how citizens approach homeownership, experience its risks after purchase, or seek security while remaining renters. These policy-shaped pathways can, in turn, reshape political interests and solidarity around redistribution.
+Why do homeownership-centered institutions remain politically durable even as homeownership becomes harder to attain? I argue that housing policy shapes this durability by structuring how citizens approach homeownership, experience its risks after purchase, or seek security while remaining renters. These policy-shaped pathways can, in turn, influence economic expectations, policy preferences, and political behavior.
 
-My dissertation traces policy feedback across three points in the housing trajectory: **toward homeownership, into homeownership, and outside homeownership**. Related projects extend this agenda to wealth inequality, debt-financed homeownership, and the conditions under which renter-support policies become either an alternative to ownership or a stepping stone toward it.
+My dissertation traces policy feedback across three points in the housing trajectory: **toward homeownership, into homeownership, and outside homeownership**. Related projects extend this agenda to household wealth, debt-financed homeownership, and the conditions under which renter-support policies become either an alternative to ownership or a stepping stone toward it.
 
 ## News
 
 - **APSA 2026:** Presented my job-market paper, *Aspirational Renters? Housing-Market Deregulation and Prospects of Upward Mobility*, at the American Political Science Association Annual Meeting in Boston.
 - **2026–27 job market:** I am on the academic job market in comparative political economy and public policy.
-- **Dissertation:** Developing a three-study project on housing policy, policy feedback, and the political foundations of homeownership-centered systems.
+- **Dissertation:** Developing a three-study project on housing policy, policy feedback, and homeownership-centered systems.
