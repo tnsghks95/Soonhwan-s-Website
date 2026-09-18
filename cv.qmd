@@ -1,0 +1,10 @@
+---
+title: "Curriculum Vitae"
+format:
+  html:
+    toc: false
+---
+
+You can view my current CV [here](https://drive.google.com/file/d/14ui1uECOEo4f_ANRpQK-YSA-hCm0Qhso/view?usp=drivesdk).
+
+[View CV (PDF)](https://drive.google.com/file/d/14ui1uECOEo4f_ANRpQK-YSA-hCm0Qhso/view?usp=drivesdk){.btn .btn-primary}
