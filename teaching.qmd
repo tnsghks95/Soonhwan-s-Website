@@ -6,6 +6,7 @@ title: "Teaching"
 
 - Comparative Politics
 - Comparative Political Economy
+- East Asian Politics
 - Public Policy
 - Public Opinion
 - Political Behavior
