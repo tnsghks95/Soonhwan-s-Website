@@ -16,27 +16,27 @@ This paper examines how housing-market deregulation changes renters' prospects o
 
 ## Works in progress
 
-### *State-Underwritten Embourgeoisement? Homeownership Support Policy and Redistributive Attitudes: Evidence from the Netherlands*
+### *Mortgage Guarantees and Political Attitudes After Home Purchase: Evidence from the Netherlands*
 
 **Soonhwan Kwon**
 
-Examines how public protection against mortgage risk shapes financial expectations and support for redistribution after renters become homeowners.
+**Working title.** Examines whether public mortgage guarantees shape financial expectations and political preferences after renters become homeowners.
 
 [Project description](research.qmd#into-homeownership)
 
-### *Renter Protection and Beliefs about Opportunity, Meritocracy, and Economic Fairness in New York City*
+### *Renting as an Alternative? Housing Support and Economic Security in New York City*
 
 **Soonhwan Kwon**
 
-Examines how different forms of renter support generate feedback on beliefs about unequal opportunity, meritocracy, and economic fairness.
+**Working title.** Examines when renter-support policies can make renting a stable alternative to homeownership and how different policy designs shape economic security and political attitudes.
 
 [Project description](research.qmd#outside-homeownership)
 
-### *Falling Behind, Buying In: Perceived Inequality and Debt-Financed Homeownership*
+### *Perceived Inequality and Debt-Financed Homeownership: Evidence from South Korea and the United Kingdom*
 
 **Soonhwan Kwon**
 
-Investigates whether perceived inequality predicts debt-financed transitions from renting to owning in South Korea and the United Kingdom.
+Investigates whether perceived inequality predicts debt-financed transitions from renting to owning among renters with different levels of financial capacity.
 
 ## Peer-reviewed publications
 
