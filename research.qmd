@@ -60,3 +60,13 @@ Using longitudinal panel data from South Korea and the United Kingdom, this proj
 ### Renter Support as an Alternative or Stepping Stone to Homeownership
 
 Using the Seoul Youth Panel Survey, this project examines when renter-support policies serve as an alternative to homeownership and when they instead become a stepping stone toward it. I link experiences with housing support to subsequent attitudes toward and plans for homeownership, with particular attention to differences by renters' financial capacity.
+
+## Peer-Reviewed Publications
+
+### “An Impact of Party Identification on Citizens' Perception toward the Safety and Expansion of Nuclear Energy in South Korea”
+
+**Soonhwan Kwon** and Taedong Lee. 2022. *Journal of Korean Politics* 31(3): 215–246. In Korean.
+
+### “Comparative Analysis of Sustainable Development Goals (SDGs) Governance: A Proposal for Korean SDGs Enhancement”
+
+Jung Hee Sung, Jee Eun Choi, Haedong Kim, **Soonhwan Kwon**, Heeseob Lee, and Taedong Lee. 2022. *Social Science Review* 53(2): 1–21. In Korean.
