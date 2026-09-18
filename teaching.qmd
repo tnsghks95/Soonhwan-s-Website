@@ -6,10 +6,9 @@ title: "Teaching"
 
 - Comparative Politics
 - Comparative Political Economy
-- East Asian Politics
 - Public Policy
-- Public Opinion
 - Political Behavior
 - Political Methodology
-- Housing Politics
+- East Asian Politics
 - Korean Politics
+- Housing Politics
