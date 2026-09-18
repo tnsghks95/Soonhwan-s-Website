@@ -51,13 +51,13 @@ Using panel data from the Poverty Tracker New York City Longitudinal Survey of W
 
 **Keywords:** Renter support; policy feedback; economic security; housing assistance; homeownership; New York City
 
-## Related Projects
+## Other Research in Progress
 
 ### *Perceived Inequality and Debt-Financed Homeownership: Evidence from South Korea and the United Kingdom*
 
 Using longitudinal panel data from South Korea and the United Kingdom, this project examines whether perceptions of economic inequality predict renters' subsequent transitions to homeownership, particularly among those with the financial capacity to take on mortgage debt. The project asks whether perceptions of inequality shape economic decisions about ownership and borrowing as well as political preferences.
 
-### Renter Support as an Alternative or Stepping Stone to Homeownership
+### *Renter Support as an Alternative or Stepping Stone to Homeownership: Evidence from the Seoul Youth Panel Survey*
 
 Using the Seoul Youth Panel Survey, this project examines when renter-support policies serve as an alternative to homeownership and when they instead become a stepping stone toward it. I link experiences with housing support to subsequent attitudes toward and plans for homeownership, with particular attention to differences by renters' financial capacity.
 
