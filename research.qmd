@@ -61,12 +61,6 @@ This project examines how aspiration and economic insecurity shape renters' purs
 
 Using the Seoul Youth Panel Survey, this project examines when renter-support policies serve as an alternative to homeownership and when they instead become a stepping stone toward it. I link experiences with housing support to subsequent attitudes toward and plans for homeownership, with particular attention to differences by renters' financial capacity.
 
-## Peer-Reviewed Publications
+### *When Meritocracy Fails: Regime Support and Authoritarian Preferences in China and Singapore*
 
-### “An Impact of Party Identification on Citizens' Perception toward the Safety and Expansion of Nuclear Energy in South Korea”
-
-**Soonhwan Kwon** and Taedong Lee. 2022. *Journal of Korean Politics* 31(3): 215–246. In Korean.
-
-### “Comparative Analysis of Sustainable Development Goals (SDGs) Governance: A Proposal for Korean SDGs Enhancement”
-
-Jung Hee Sung, Jee Eun Choi, Haedong Kim, **Soonhwan Kwon**, Heeseob Lee, and Taedong Lee. 2022. *Social Science Review* 53(2): 1–21. In Korean.
+Does the perceived failure of meritocracy weaken support for authoritarian regimes? Previous studies show that perceived economic inequality is negatively associated with regime support in authoritarian countries. However, this study argues that dissatisfaction with an existing authoritarian regime should be distinguished from opposition to authoritarian rule itself. Using World Values Survey data from China and Singapore, I find that people who believe that luck and social connections matter more than hard work are less supportive of their political system. Yet they are more likely to support a strong leader unconstrained by parliament and elections. These findings suggest that the failure of meritocratic expectations may weaken regime support without necessarily weakening support for authoritarian rule.
