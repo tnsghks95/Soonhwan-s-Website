@@ -11,6 +11,8 @@ format:
 ::: {.g-col-12 .g-col-md-8}
 # Soonhwan Kwon
 
+## About Me
+
 I am a PhD candidate in the Department of Political Science at Indiana University Bloomington. My research lies at the intersection of comparative politics, political economy, and public policy, with a primary focus on the political economy of housing.
 
 My dissertation examines how housing policies shape citizens’ expectations about economic security, asset accumulation, and upward mobility, and how these expectations influence political attitudes and policy preferences. I approach housing policy as an institution that structures the relationship between households, markets, and the state.
