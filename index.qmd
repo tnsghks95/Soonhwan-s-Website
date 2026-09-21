@@ -11,13 +11,17 @@ format:
 ::: {.g-col-12 .g-col-md-8}
 # Soonhwan Kwon
 
-## PhD Candidate in Political Science
+I am a PhD candidate in the Department of Political Science at Indiana University Bloomington. My research lies at the intersection of comparative politics, political economy, and public policy, with a primary focus on the political economy of housing.
 
-**Indiana University Bloomington**
+My dissertation examines how housing policies shape citizens’ expectations about economic security, asset accumulation, and upward mobility, and how these expectations influence political attitudes and policy preferences. I approach housing policy as an institution that structures the relationship between households, markets, and the state.
 
-I study comparative political economy and public policy, with a focus on **housing**, **welfare institutions**, and **household wealth**. My research examines how public policies and institutions shape the economic opportunities and risks citizens face, and how those experiences influence economic expectations, policy preferences, and political behavior. I use longitudinal survey data, quasi-experimental designs, and survey experiments to study these questions comparatively across advanced democracies, with a particular regional interest in South Korea and East Asia.
+My dissertation takes a comparative approach, examining South Korea alongside cases in Europe and the United States to understand how different housing and welfare systems shape political attitudes and economic expectations. Building on this work, my broader research agenda places greater emphasis on South Korea and East Asia while continuing to use cross-national comparison to study the development and political consequences of housing institutions.
 
-My dissertation asks why homeownership-centered institutions remain politically durable even as homeownership becomes harder to attain. I argue that housing policy helps sustain these systems by structuring how citizens approach homeownership, experience its risks after purchase, or seek security while remaining renters. Across studies of Seoul, the Netherlands, and New York City, I trace policy feedback at three points in the housing trajectory: **toward homeownership, into homeownership, and outside homeownership**. Related projects extend this agenda to household wealth, debt-financed homeownership, renter-support policies, and the political consequences of perceived economic opportunity.
+I am particularly interested in how housing policy interacts with economic development, welfare provision, household asset formation, and patterns of homeownership. More broadly, my research engages questions of welfare development, household wealth, labor markets, and the political consequences of major economic and social policies.
+
+Methodologically, I use quasi-experimental and longitudinal research designs, including Difference-in-Differences, Regression Discontinuity Design, panel data analysis, and fixed-effects models, to study the effects of policy change on political attitudes and behavior.
+
+If you are interested in any of these research areas, please feel free to contact me.
 
 [Research](research.qmd){.btn .btn-primary .btn-lg} [CV](cv.qmd){.btn .btn-outline-secondary .btn-lg} [Job Market Paper](https://drive.google.com/file/d/1UyaBIgAyoT9nLptkaXkZr16JtqGHL4Bq/view?usp=drivesdk){.btn .btn-outline-secondary .btn-lg} [Email](mailto:sookwon@iu.edu){.btn .btn-outline-secondary .btn-lg}
 :::
